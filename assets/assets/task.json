@@ -13,13 +13,6 @@
       "RR": "1",
       "TR": "5"
     },
-    {
-      "id": 5,
-
-      "text": "Placing Screens and debris nets",
-      "RR": "6",
-      "TR": "0"
-    },
 
     {
       "id": 2,
@@ -97,31 +90,11 @@
       "TR": "5"
     },
     {
-      "id": 5,
-
-      "text": "Installation of guard rail",
-      "RR": "6",
-      "TR": "0"
-    },
-    {
       "id": 4,
 
       "text": "Ear muffs",
       "RR": "0.5",
       "TR": "2"
-    }
-  ,{
-      "id": 5,
-
-      "text": "Safety Goggles",
-      "RR": "2",
-      "TR": "0"
-    },{
-      "id": 5,
-
-      "text": "Personal fall arrest system",
-      "RR": "15",
-      "TR": "0"
     },
     {
       "id": 3,
